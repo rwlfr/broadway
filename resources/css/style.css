@@ -1,0 +1,72 @@
+/* General Style */
+body {
+  font-family: Helvetica;
+  font-size: 14px;
+  text-align: center;
+  color: black;
+  margin: 50 10 10 10;
+}
+/*Style For links*/
+a:link {
+  color: white;
+  font-size: 18px;
+}
+a:visited {
+  color: white;
+  font-size: 18px;
+}
+a:hover {
+  color: white;
+  font-size: 18px;
+}
+a:active {
+  color: white;
+  font-size: 18px;
+}
+/* Style For Header */
+header {
+  background-image: url("../images/the-flatiron-building.png");
+}
+/* Style For Navigation */
+header ul li {
+  font-size: 18px;
+  color: white;
+  list-style-type: none;
+}
+/* Style For Headlines */
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+/* Style For Separator */
+.newyork {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url("../images/the-flatiron-building.png");
+}
+/* Style For Footer */
+footer {
+  width: 100%;
+  font-size: 11px;
+  font-weight: bold;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+  display: inline-block;
+  padding: 0 0 0 0;
+}
+footer ul li {
+    display: inline-block;
+    list-style-type: none;
+    padding: 0 0 0 0;
+}
